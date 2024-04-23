@@ -5,6 +5,13 @@ Changelog
 unreleased
 ==========
 
+1.6.0 (Unreleased)
+==================
+* addd support for django 4.2
+* add support for Python 3.10
+* drop support for django < 3.2
+
+
 1.5.0 (2022-09-13)
 ==================
 * feat: Changed compliance number length to 30 characters
