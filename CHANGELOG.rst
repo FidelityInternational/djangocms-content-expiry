@@ -4,6 +4,8 @@ Changelog
 
 unreleased
 ==========
+* fix: add `data-popup="yes"` to the link with class `related-widget-wrapper-link`, then the popup will be shown when the user clicks on the link. 
+  The JS logic got changed after Django 4.1 upgrade (#15301)
 
 1.6.0 (2024-05-16)
 ==================
